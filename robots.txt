@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammaddanish1458.com/sitemap/sitemap-index.xml
+Host: https://muhammaddanish1458.com

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2021","title":"Coming Soon!","tech":["A lot"],"github":"https://github.com/mda1458/","external":"","company":""},"html":""}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
